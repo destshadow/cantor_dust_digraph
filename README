@@ -1,0 +1,23 @@
+
+Semplice digraph che legge file in input e crea png dei suddetti file
+Basato sul lavoro di Christopher Domas
+https://www.youtube.com/watch?v=4bM3Gut1hIk
+
+file per creare png in un solo header
+
+ -> https://github.com/nothings/stb = libreria ricca di soli .h che implementano funzioni in un solo header
+
+1) https://github.com/nothings/stb/blob/master/stb_image_write.h
+2) wget https://github.com/nothings/stb/blob/master/stb_image_write.h &
+
+file per aprire in modo corretto qualsiasi file da input
+
+1) https://github.com/tsoding/musializer/blob/master/src/nob.h
+2) wget https://github.com/tsoding/musializer/blob/master/src/nob.h &
+
+alla fine nob non è servito a niente la mia funzione fa tutto
+
+per estrarre più dati possiamo creare un trigrafo (3D)
+questo è un digrafo (2D) che ovviamente è più semplice da costruire
+
+3) feh -B black "nome img"
